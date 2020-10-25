@@ -13,10 +13,10 @@ Actor4 = new Professional ("Katherine Hepburn †", 96, "Female", 64, 172, "dark
 
 
 
-console.log (Actor1.toString());
+console.log (Actor1.toStringProfessional());
 
-console.log (Actor2.toString());
+console.log (Actor2.toStringProfessional());
 
-console.log (Actor3.toString());
+console.log (Actor3.toStringProfessional());
 
-console.log (Actor4.toString());
+console.log (Actor4.toStringProfessional());
