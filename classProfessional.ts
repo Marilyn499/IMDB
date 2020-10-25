@@ -1,7 +1,7 @@
-class Professional 
+export class Professional 
 {
     public name: string;
-    public age: string;
+    public age: number;
     public genre: string;
     public weightKg: number;
     public heightCm: number;
@@ -13,7 +13,7 @@ class Professional
     public oscarsNumber: number;
     public profession: string;
 
-    constructor (name: string, age: string, genre: string, weightKg: number, heightCm: number, hairColor: string, eyeColor: string, race: string, isRetired: boolean, nationality: string, oscarsNumber: number, profession: string) {
+    constructor (name: string, age: number, genre: string, weightKg: number, heightCm: number, hairColor: string, eyeColor: string, race: string, isRetired: boolean, nationality: string, oscarsNumber: number, profession: string) {
         this.name = name;
         this.age = age;
         this.genre = genre;
@@ -37,4 +37,3 @@ class Professional
 
 }
 
-module.exports = {Professional}
