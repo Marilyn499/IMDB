@@ -1,0 +1,16 @@
+{
+  "peliculas": [
+    {
+      "title": "Titac",
+      "releaseYear": 1997,
+      "nationality": "EEUU",
+      "genre": "Drama"
+    },
+    {
+      "title": "The Imitation Game",
+      "releaseYear": 2014,
+      "nationality": "EEUU",
+      "genre": "Biopic"
+    }
+  ]
+}
