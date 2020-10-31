@@ -20,6 +20,6 @@ export class Imdb{
     }
     public obtenerInstanciaIMDB(nameFile:string){
         let data = JSON.parse(fs.readFileSync(nameFile,"UTF-8"));
-        console.log(data);
+        console.log(data);        
     }   
 }

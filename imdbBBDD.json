@@ -1,16 +1,1 @@
-{
-  "peliculas": [
-    {
-      "title": "Titac",
-      "releaseYear": 1997,
-      "nationality": "EEUU",
-      "genre": "Drama"
-    },
-    {
-      "title": "The Imitation Game",
-      "releaseYear": 2014,
-      "nationality": "EEUU",
-      "genre": "Biopic"
-    }
-  ]
-}
+[{"title":"Titac","releaseYear":1997,"actors":[{"name":"Harrinson Ford","age":78,"genre":"Male","weightKg":83,"heightCm":185,"hairColor":"Light brown","eyeColor":"Hazel","race":"Caucasian","isRetired":false,"nationality":"American","oscarsNumber":0,"profession":"Actor"},{"name":"Carrie Fisher †","age":60,"genre":"Female","weightKg":47,"heightCm":155,"hairColor":"Dark brown","eyeColor":"Dark brown","race":"Caucasian","isRetired":true,"nationality":"American","oscarsNumber":0,"profession":"Actress"}],"nationality":"EEUU","director":{"name":"Richard Marquand †","age":49,"genre":"Male","weightKg":"unknown","heightCm":"unknown","hairColor":"Dark brown","eyeColor":"Dark brown","race":"Caucasian","isRetired":true,"nationality":"English","oscarsNumber":0,"profession":"Director"},"writer":"George Lucas","plataform":"Netflix","isMCU":false,"mainCharacterName":"Luke Skywalker","producer":"George Lucas","distributor":"20th Century Fox","genre":"Drama"},{"title":"The Imitation Game","releaseYear":2014,"actors":[{"name":"Harrinson Ford","age":78,"genre":"Male","weightKg":83,"heightCm":185,"hairColor":"Light brown","eyeColor":"Hazel","race":"Caucasian","isRetired":false,"nationality":"American","oscarsNumber":0,"profession":"Actor"},{"name":"Carrie Fisher †","age":60,"genre":"Female","weightKg":47,"heightCm":155,"hairColor":"Dark brown","eyeColor":"Dark brown","race":"Caucasian","isRetired":true,"nationality":"American","oscarsNumber":0,"profession":"Actress"}],"nationality":"EEUU","director":{"name":"Richard Marquand †","age":49,"genre":"Male","weightKg":"unknown","heightCm":"unknown","hairColor":"Dark brown","eyeColor":"Dark brown","race":"Caucasian","isRetired":true,"nationality":"English","oscarsNumber":0,"profession":"Director"},"writer":"George Lucas","plataform":"Netflix","isMCU":false,"mainCharacterName":"Luke Skywalker","producer":"George Lucas","distributor":"20th Century Fox","genre":"Biopic"}]
